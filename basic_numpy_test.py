@@ -5,7 +5,7 @@ All numpy methods are preceded by a comment explaining the method and succeeded 
 ## import dependencies
 import numpy as np
 import matplotlib.pyplot as plt
-from math import pow
+from math import *
 
 ### ------------------------------------------------------------------------- ###
 
